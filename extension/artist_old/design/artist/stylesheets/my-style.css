@@ -1,0 +1,32 @@
+#main{
+	width: 890px !important;
+}
+
+#main blockquote {
+	width: 100% !important;
+}
+
+body { 
+	font-size: 80%; 
+}
+
+#portfolio.three_col ul{
+	width: 950px !important;
+}
+
+.menu_footer{
+	width: 600px;
+}
+
+.menu_footer li{
+	display: inline;
+	margin-right: 10px;
+	
+
+}
+
+.menu_footer a{
+	border-bottom: none !important;
+	border-right: 1px dotted #1c692a;
+	padding-right: 8px;
+}
